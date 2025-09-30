@@ -1,26 +1,3 @@
-# Loan_Approval_Prediction_API
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Loan Approval Prediction API — README</title>
-  <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height: 1.6; color: #111; padding: 32px; max-width: 900px; margin: auto; }
-    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
-    h2 { margin-top: 1.2rem; }
-    code, pre { background:#f6f8fa; padding:6px 10px; border-radius:6px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace; }
-    pre { overflow:auto; }
-    .kbd { background:#eee; padding:2px 6px; border-radius:4px; }
-    ul { margin-top:0.25rem; }
-    .meta { font-size:0.95rem; color:#555; margin-bottom:1rem; }
-    .note { background:#fffbe6; border-left:4px solid #ffd24d; padding:10px 12px; border-radius:6px; }
-    a.button { display:inline-block; margin-top:8px; padding:8px 12px; background:#0366d6; color:#fff; border-radius:6px; text-decoration:none; }
-  </style>
-</head>
-<body>
-
   <h1>Loan Approval Prediction API</h1>
   <div class="meta">A Flask REST API to <strong>train</strong>, <strong>test</strong> and <strong>predict</strong> loan approval using a Random Forest model. This repo contains the backend, model serialization, and examples to test via Postman or curl.</div>
 
