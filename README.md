@@ -124,18 +124,6 @@ source venv/bin/activate
     <li>If Postman returns long-running request, click <strong>Cancel</strong> in Postman and check server logs in terminal.</li>
   </ul>
 
-  <h2>Demo & Links</h2>
-  <p>Add your repository and demo video links here when ready:</p>
-  <ul>
-    <li>GitHub repo: <a href="#" target="_blank">https://github.com/your-username/loan-approval-project</a></li>
-    <li>Demo video: <a href="#" target="_blank">https://youtube.com/...</a></li>
-  </ul>
-
-  <h2>License & Contact</h2>
-  <p>License: MIT (or choose your preferred license)</p>
-  <p>Author: <strong>Your Name</strong> — <a href="mailto:you@example.com">you@example.com</a></p>
-
-  <p class="note"><strong>Note:</strong> Replace placeholder links and the author email before publishing. Also commit your final <code>app.py</code>, <code>requirements.txt</code>, and a short demo video to the repo for best results.</p>
 
 </body>
 </html>
